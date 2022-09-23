@@ -6,3 +6,7 @@ def print_n_times(msg, n):
 
 def add(a, b):
   return a + b
+
+
+def divide(a, b):
+  return a / b
